@@ -3,7 +3,7 @@ import styles from "./page.module.css";
 
 const SHOWS = [
   { date: "19.11.26", venue: "kraftfeld", city: "winterthur" },
-  { date: "20.11.26", venue: "MaxiMix", city: "La Chaux-de-Fonds" },
+  { date: "20.11.26", venue: "maximix", city: "la chaux-de-fonds" },
   { date: "25.11.26", venue: "schönegg varieté", city: "zürich" },
   {
     date: "26.11.26",
